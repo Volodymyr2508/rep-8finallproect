@@ -47,7 +47,7 @@ body {
     font-size: 30px;
 }
 main{
-    text-align: center;
+text-align: center;
     margin: 0 auto;
     background-color: rgb(75, 74, 74);
     width: 900px;
@@ -103,4 +103,11 @@ main{
 .divp4:hover{
     background-color: rgb(123,122,122);
     transition: 1s;
+}
+.a1{
+    color: black;
+    margin-top: 20px;
+    vackground-color: light-blue;
+    border-radius: 10px;
+    fonr-size: 20px;
 }
