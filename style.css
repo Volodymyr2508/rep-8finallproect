@@ -47,12 +47,11 @@ body {
     font-size: 30px;
 }
 main{
-    background-color: rgb(75, 74, 74);
-    width: 750px;
-    height: 500px;
     text-align: center;
+    margin: 0 auto;
+    background-color: rgb(75, 74, 74);
+    width: 900px;
     border-radius: 20px;
-    margin-left: 208px;
 } 
 .fixed{
     width: 200px;
