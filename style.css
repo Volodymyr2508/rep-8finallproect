@@ -107,7 +107,9 @@ text-align: center;
 .a1{
     color: black;
     margin-top: 20px;
-    vackground-color: light-blue;
+    background-color: light-blue;
     border-radius: 10px;
-    fonr-size: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    width: 50px;
 }
